@@ -3,7 +3,7 @@
   
   <a href="https://github.com/cruzhar">
  
-    <img src="https://github-readme-stats.vercel.app/api?username=zluvsand&show_icons=true"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=cruzhar&show_icons=true"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cruzhar&layout=compact&langs_count=15&theme=dark"/>
   
   
