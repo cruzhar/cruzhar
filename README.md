@@ -7,10 +7,24 @@
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cruzhar&layout=compact&langs_count=15&theme=dark"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=cruzhar&show_icons=true&theme=dark&include_all_commits=true&count_private=fale"/>
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=cruzhar&show_icons=true&theme=dark"/>
-  
+    
+    
+      
   
 </div>
 
+  
+  </br>
+    </br>
+  
+  <div>
+    
+    <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/><img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/><img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" /><img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" /><img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" /><img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg"/><img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/><img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg"/>
+  </div>
+  
+    </br>
+      </br>
+  
   
   
 <div> 
