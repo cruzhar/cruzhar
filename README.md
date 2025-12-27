@@ -1,12 +1,11 @@
 <div align="center">
   <a href="https://github.com/cruzhar">
-
-    <img src="https://img.shields.io/github/stars/cruzhar?style=for-the-badge">
-    <img src="https://img.shields.io/github/followers/cruzhar?style=for-the-badge">
-    <img src="https://img.shields.io/github/last-commit/cruzhar/cruzhar?style=for-the-badge">
-
   </a>
+   <img src="https://img.shields.io/github/stars/cruzhar?style=for-the-badge">
+    <img src="https://img.shields.io/github/followers/cruzhar?style=for-the-badge">
+    <img src="https://img.shields.io/github/last-commit/cruzhar/NOMBRE_DEL_REPO?style=for-the-badge">
 </div>
+
 
 <div align="center">
 
