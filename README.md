@@ -4,10 +4,12 @@
   <a href="https://github.com/cruzhar">
  
 
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cruzhar&layout=compact&theme=dark&cache_seconds=21600"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cruzhar&layout=compact&langs_count=15&theme=dark"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=cruzhar&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=cruzhar&theme=dark"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=cruzhar&show_icons=true&theme=dark&count_private=true&cache_seconds=21600"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=cruzhar&theme=dark&cache_seconds=21600"/>
+
 
 
 </div>
