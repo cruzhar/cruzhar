@@ -4,11 +4,12 @@
   <a href="https://github.com/cruzhar">
  
 
+
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cruzhar&layout=compact&langs_count=15&theme=dark"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=cruzhar&show_icons=true&theme=dark&include_all_commits=true&count_private=fale"/>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=cruzhar&show_icons=true&theme=dark"/>
-     
-  
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=cruzhar&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=cruzhar&theme=dark"/>
+
+
 </div>
   
 <div> 
@@ -25,5 +26,8 @@
           <img src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white">
             <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
               <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
+              <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
+<img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white">
+
  
 </div>
