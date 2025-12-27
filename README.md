@@ -1,17 +1,13 @@
 <div align="center">
-  
-  
   <a href="https://github.com/cruzhar">
- 
 
-<img src="https://img.shields.io/github/stars/cruzhar?style=for-the-badge">
-<img src="https://img.shields.io/github/followers/cruzhar?style=for-the-badge">
-<img src="https://img.shields.io/github/commit-activity/y/cruzhar?style=for-the-badge">
+    <img src="https://img.shields.io/github/stars/cruzhar?style=for-the-badge">
+    <img src="https://img.shields.io/github/followers/cruzhar?style=for-the-badge">
+    <img src="https://img.shields.io/github/last-commit/cruzhar/cruzhar?style=for-the-badge">
 
-
-
-
+  </a>
 </div>
+
 <div align="center">
 
   <img src="https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white">
